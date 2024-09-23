@@ -1,0 +1,9 @@
+[package]
+name = "libfreedom"
+version = "0.0.0"
+edition = "2021"
+
+description = "A scanner library that checks if your hardware and software is free (free as in freedom)"
+license = "GPL-3.0"
+
+[dependencies]
