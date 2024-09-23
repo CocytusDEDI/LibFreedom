@@ -7,3 +7,4 @@ description = "A scanner library that checks if your hardware and software is fr
 license = "GPL-3.0"
 
 [dependencies]
+drm = "0.12.0"
